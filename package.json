@@ -3,14 +3,14 @@
   "description": "A Twitter crawler helper with auth",
   "version": "2.5.3",
   "license": "MIT",
-  "author": "Helmi Satria",
+  "author": "Masejaya",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
-    "@helmisatria:registry": "https://npm.pkg.github.com/"
+    "@Masejaya:registry": "https://npm.pkg.github.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/helmisatria/tweet-harvest.git"
+    "url": "git+https://github.com/Masejaya/tweet-harvest.git"
   },
   "files": [
     "dist/"
